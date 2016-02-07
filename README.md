@@ -4,7 +4,9 @@
 ###ADVANCE PROGRAMMING - CIT 3009 Group Project
 
 DATE GIVEN: Week of January, 2016
+
 DATE DUE: Week of April, 2016
+
 INTRUCTION: In groups of four (4) of five (5) students are required to develop the 
 application stated below.
 
