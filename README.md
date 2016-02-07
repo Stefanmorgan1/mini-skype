@@ -23,14 +23,20 @@ to get pertinent information on the user.
 You are free to use third party software/add ons to help complete this project.
 
 The features of the system include:
+
 1. Registration - The application must allow for new users to register for the system.
+
 2. Authentication - The application should validate that a user is authorized to use the
 system.
+
 3. Direct Messaging - The application should allow a user to send a message directly to a 
 next user without it being seen by any other party.
+
 4. Group Chat - The application should allow a user to create a group chat and invite other
 users to join, all messages sent in the chat should be visible to all users in the chat.
+
 5. File Sharing - The application should allow a user to share a file on his/her computer
 with a next user on the application or group.
+
 6. Voice Over IP - The application should allow a user to start a call (not video call) 
 session with a next user of the application.
